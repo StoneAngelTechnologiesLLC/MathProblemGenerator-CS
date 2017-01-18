@@ -1,0 +1,6 @@
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo6MathProblems\JohnPietrangelo6MathProblems\bin\Debug\JohnPietrangelo6MathProblems.exe.config
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo6MathProblems\JohnPietrangelo6MathProblems\bin\Debug\JohnPietrangelo6MathProblems.exe
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo6MathProblems\JohnPietrangelo6MathProblems\bin\Debug\JohnPietrangelo6MathProblems.pdb
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo6MathProblems\JohnPietrangelo6MathProblems\obj\Debug\JohnPietrangelo6MathProblems.csprojResolveAssemblyReference.cache
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo6MathProblems\JohnPietrangelo6MathProblems\obj\Debug\JohnPietrangelo6MathProblems.exe
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo6MathProblems\JohnPietrangelo6MathProblems\obj\Debug\JohnPietrangelo6MathProblems.pdb
